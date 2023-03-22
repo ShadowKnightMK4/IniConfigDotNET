@@ -1,0 +1,6 @@
+﻿
+INI Generally follows the [SectionName] with entry=value and the ';' as a comment.
+
+Fancy matches this and
+Runs as Unicode
+Includes a header and compresses the text.
